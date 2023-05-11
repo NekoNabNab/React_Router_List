@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+}
+
+.white{
+    color: #FAF6F6;
+}
+
+.black{
+    color: #192126;
+}
+
+.pink{
+    color: #FF4250;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+h1,h2{
+    color: #192126;
+}
+
+table{
+    padding: 10px;
+}
+
+th,td{
+    text-align: left;
+    padding: 8px 12px;
+}
+
+.container-list .content{
+    /* flex-direction: row; */
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 24px;
+ }
+
+/* Content Main */
+/* list CRUD */
+.container-list .content .title{
+    margin-bottom: 24px;
+}
+
+.container-list .content .list-data{
+    min-height: 100vh;
+    margin-block: 12px;
+    padding: 24px;
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    border: solid 1px #c9c9c9;
+    border-radius: 10px;
+}
+.container-list .content .list-data .row{
+    display: flex;
+    justify-content: center;
+}
+.container-list .content .list-data .list-book .col-md-3 .card-body .text .card-title{
+    height: 50px;
+}
+.container-list .content .list-data .list-book .col-md-3 .card .gambar-buku{
+    height: 300px;
+    
+}
+
+ /* content2 */
+
+ @media screen and (max-width: 1050px) {
+    .side-menu{
+        display: none;
+    }
+    .brand-name{
+        font-size: 16px;
+    }
+    .container-list-list{
+        width: 100%;
+    }
+    .container-list-list .content .cards{
+        justify-content: center;
+    }
+    .container-list-list .header{
+        justify-content: center;
+        width: 100vw;
+    }
+ }

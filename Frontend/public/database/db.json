@@ -1,0 +1,181 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "NonFiksi"
+    },
+    {
+      "id": 2,
+      "nama": "Fiksi"
+    },
+    {
+      "id": 3,
+      "nama": "Anak"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Seni Untuk Bersikap Bodo Amat",
+
+      "is_ready": true,
+      "gambar": "NonFiksi1.jpg",
+      "category": {
+        "id": 1,
+        "nama": "NonFiksi"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Ikigai",
+
+      "is_ready": true,
+      "gambar": "NonFiksi2.jpg",
+      "category": {
+        "id": 1,
+        "nama": "NonFiksi"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Ensiklopedia Sains",
+
+      "is_ready": true,
+      "gambar": "NonFiksi3.jpg",
+      "category": {
+        "id": 1,
+        "nama": "NonFiksi"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Sejarah Kejayaan Singosari",
+
+      "is_ready": true,
+      "gambar": "NonFiksi4.jpg",
+      "category": {
+        "id": 1,
+        "nama": "NonFiksi"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Bimbel Kimia",
+
+      "is_ready": true,
+      "gambar": "NonFiksi5.jpg",
+      "category": {
+        "id": 1,
+        "nama": "NonFiksi"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Detik-Detik Fisika",
+
+      "is_ready": true,
+      "gambar": "NonFiksi6.jpg",
+      "category": {
+        "id": 1,
+        "nama": "NonFiksi"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Logika Matematika",
+
+      "is_ready": true,
+      "gambar": "NonFiksi7.jpg",
+      "category": {
+        "id": 1,
+        "nama": "NonFiksi"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Komik Naruto",
+      "is_ready": true,
+      "gambar": "Fiksi1.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Fiksi"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Komik One Piece",
+      "is_ready": true,
+      "gambar": "Fiksi2.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Fiksi"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "K-010",
+      "nama": "Komik Detective Conan",
+
+      "is_ready": true,
+      "gambar": "Fiksi3.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Fiksi"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "K-011",
+      "nama": "Si Bolang",
+
+      "is_ready": true,
+      "gambar": "Anak1.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Anak"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-012",
+      "nama": "Dongeng Pengantar Tidur",
+      "is_ready": true,
+      "gambar": "Anak2.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Anak"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "K-013",
+      "nama": "Cerita Si Kancil",
+      "is_ready": true,
+      "gambar": "Anak3.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Anak"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "K-014",
+      "nama": "Sofia the First",
+      "is_ready": true,
+      "gambar": "Anak4.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Anak"
+      }
+    }
+  ]
+}

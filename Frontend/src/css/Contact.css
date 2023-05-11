@@ -1,0 +1,9 @@
+.container-list .content .list-data .table thead tr th{
+    text-align: left;
+    justify-content: left;
+}
+
+.container-list .content .list-data .table tbody tr th{
+    text-align: left;
+    justify-content: left;
+}
