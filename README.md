@@ -1,7 +1,5 @@
-# React_Router_List_Perpustakaan_Online
+# React Router List Perpustakaan Online
 XIR8_26_Nabila Rozan Humairoh
-
-Display Of React Perpustakaan Online
 
 <h1>Login Page</h1>
 <img src="https://github.com/NekoNabNab/React_Router_List/blob/master/Display/LoginPage.jpg"/><br />
